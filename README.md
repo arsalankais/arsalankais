@@ -75,11 +75,9 @@
 
 ---
 
-## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=arsalankais&theme=darkhub&row=1&column=6&margin-w=10&margin-h=10" />
-</p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=arsalankais&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
