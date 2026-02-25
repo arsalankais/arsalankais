@@ -55,7 +55,11 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/arsalankais/arsalankais/output/snake.svg" alt="Snake animation"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/arsalankais/arsalankais/blob/output/snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/arsalankais/arsalankais/blob/output/snake.svg">
+    <img alt="Snake animation" src="https://github.com/arsalankais/arsalankais/blob/output/snake.svg">
+  </picture>
 </p>
 
 ⚠️ (Enable this using GitHub Action later — I can guide you)
@@ -73,7 +77,9 @@
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=arsalankais&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=arsalankais&theme=darkhub&row=1&column=6&margin-w=10&margin-h=10" />
+</p>
 
 ---
 
@@ -105,7 +111,9 @@
 
 ## 👀 Profile Views
 
-![](https://visitcount.itsvg.in/api?id=arsalankais&label=Profile%20Views&color=12&icon=5&pretty=true)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=arsalankais&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+</p>
 
 ---
 
