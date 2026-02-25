@@ -52,19 +52,7 @@
 
 ---
 
-## 🐍 Contribution Snake
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/arsalankais/arsalankais/blob/output/snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/arsalankais/arsalankais/blob/output/snake.svg">
-    <img alt="Snake animation" src="https://github.com/arsalankais/arsalankais/blob/output/snake.svg">
-  </picture>
-</p>
-
-⚠️ (Enable this using GitHub Action later — I can guide you)
-
----
 
 ## 📚 Projects
 
