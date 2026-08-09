@@ -12,7 +12,7 @@
 
 💡 Second-Year B.Tech Computer Science Student  
 💻 Passionate Full Stack Developer  
-🎯 Focused on React, Node.js, Express.js, MongoDB, JavaScript & Modern UI  
+🎯 Focused on Building Scalable & Modern Web Applications
 🚀 Building Real-World Projects  
 📚 Constantly Learning & Growing  
 
