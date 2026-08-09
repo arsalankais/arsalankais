@@ -10,9 +10,9 @@
 
 ## 🚀 About Me
 
-💡 First-Year B.Tech Computer Science Student  
-💻 Passionate Frontend Developer  
-🎯 Focused on React, JavaScript & Modern UI  
+💡 Second-Year B.Tech Computer Science Student  
+💻 Passionate Full Stack Developer  
+🎯 Focused on React, Node.js, Express.js, MongoDB, JavaScript & Modern UI  
 🚀 Building Real-World Projects  
 📚 Constantly Learning & Growing  
 
