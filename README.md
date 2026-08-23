@@ -12,7 +12,7 @@
 
 💡 Second-Year B.Tech Computer Science Student  
 💻 Passionate Full Stack Developer  
-🎯 Focused on Modern Web Applications
+🎯 Focused on Modern Web Applications   
 🚀 Building Real-World Projects  
 📚 Constantly Learning & Growing  
 
