@@ -1,5 +1,5 @@
 <p align="center">
-<img src="arsalan_github_banner2.png"/>
+<img src="arsalan_github_banner.png"/>
 </p>
 
 <p align="center">
